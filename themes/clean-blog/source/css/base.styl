@@ -13,7 +13,8 @@ p
   -webkit-font-smoothing antialiased
 p, li
   a
-    text-decoration underline
+    text-decoration none
+    color brand-primary
 
 h1, h2, h3, h4, h5, h6
   @extend .sans-serif
@@ -339,3 +340,20 @@ img::-moz-selection
 
 body
   webkit-tap-highlight-color brand-primary
+
+
+// custom
+.book-image
+  float left
+  padding-right 15px
+  padding-bottom 15px
+  width 250px
+
+.book-list td
+  padding 5px
+.book-list td a
+  color brand-primary
+.rating i.glyphicon
+  font-size: 0.7em
+.rating span
+  white-space nowrap

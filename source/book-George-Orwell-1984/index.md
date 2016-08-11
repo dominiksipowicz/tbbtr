@@ -6,7 +6,9 @@ cover: http://4.bp.blogspot.com/-La9G41wfI4w/Vie_DjCfYlI/AAAAAAAANuI/KMAGqdKGcPo
 George Orwell’s nineteen eighty-four
 ====================================
 
-This classic is the kind of page-turner a reader revisits every few years. 1984 is a tale of a disillusioned city. First published in 1949, the novel is not only a political work of fiction but also a wealth of wisdom. The reader walks away with several quotes which poke at the illusions of the modern world.
+{% raw %}
+<img src="https://images-na.ssl-images-amazon.com/images/I/516GbNBFP6L._SX324_BO1,204,203,200_.jpg" class="book-image">
+{% endraw %}This classic is the kind of page-turner a reader revisits every few years. 1984 is a tale of a disillusioned city. First published in 1949, the novel is not only a political work of fiction but also a wealth of wisdom. The reader walks away with several quotes which poke at the illusions of the modern world.
  
 Set in a grim version of London, the characters in the world of 1984 are born to the rigid smiles of carbon copies of parents. They are raised to the sound of chants calling them to embrace the rules and regulations of the ruling party in a one-party state. They don’t dare to fall in love. Friendship is more or less forbidden. They die mysteriously after accusations of treason made by family members. Throughout their lives, every step and thought is surveilled by an omnipresent entity called Big Brother. Their main purpose is to live according to this Big Brother’s will - who is not to be confused with a religious entity. Religion has no place in this society.
 

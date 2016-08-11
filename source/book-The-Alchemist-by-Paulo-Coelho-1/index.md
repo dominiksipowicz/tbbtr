@@ -7,11 +7,14 @@ cover: http://pre15.deviantart.net/0710/th/pre/f/2010/183/1/9/1981f75e281f4e79fb
 The Alchemist by Paulo Coelho
 =============================
 
-All young men have destinies they want to realize, things they wanted to accomplish. Few go after their destinies; most give up on them. Do you have a dream you wanted to pursue but never did? Because more important things came up in your life? Because you thought you might fail? Because you spent so long putting it off that it was eventually too late for you to pursue it?
 
-{% pullquote %}The Alchemist is a book particularly meant for young people who have dreams they want to realize, especially those who are at the point of giving up on their dreams.{% endpullquote %}
+{% raw %}
+<img src="https://images-na.ssl-images-amazon.com/images/I/415usBnQn7L._SX328_BO1,204,203,200_.jpg" class="book-image">
+{% endraw %}All young men have destinies they want to realize, things they wanted to accomplish. Few go after their destinies; most give up on them. Do you have a dream you wanted to pursue but never did? Because more important things came up in your life? Because you thought you might fail? Because you spent so long putting it off that it was eventually too late for you to pursue it?
 
 When an Andalusian boy goes to a Gypsy woman in Tarifa to have a recurrent dream interpreted, he is also on the verge of giving it all up. Why wouldn’t he? Why would he go all the way to Egypt to find a hidden treasure? And what if he doesn’t find any? Maybe he should go on looking after his sheep and marry the merchant’s daughter?
+
+{% pullquote %}The Alchemist is a book particularly meant for young people who have dreams they want to realize, especially those who are at the point of giving up on their dreams.{% endpullquote %}
 
 This Andalusian boy is Santiago, a shepherd by choice. He became a shepherd because he wanted to travel the world and sure enough in two-years’ time he had been able to explore all the cities of Andalusia.
 
